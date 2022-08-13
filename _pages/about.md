@@ -22,4 +22,4 @@ News
 1. 2022-08: Our paper **Regionalization in a global hydrologic deep learning model: From physical descriptors to random vectors** has been accepted by Water Resources Research.
 2. 2022-05: Our paper **Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology** has been accepted at KDD '22
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LfAScFrUO-C4Y6VxgQur3c0EGUK6fOTW9ug-weruTPE&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bput" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LfAScFrUO-C4Y6VxgQur3c0EGUK6fOTW9ug-weruTPE&cl=ffffff"></a>
