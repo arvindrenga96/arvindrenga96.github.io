@@ -18,15 +18,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019: Software Development Engineer Intern
+  * Amazon, Device Master Service Team.
+  * OMA To PCE Migration: Assisted with Migration from OMA to PCE, by identifying, designing and developing replacement for OMA APIs for fetching order Details. The replacements and changes for the migrations were implemented in Java on Machine learning for Detection and Classification of potentially
+habitable Exoplanets.
+  * Xfsn Cookie Migration: Responsible for migrating all services in team which used X-Fsn cookie library to a newer version of the the same. X-Fsn cookies is used to identify and authenticate requests from Amazon old generation devices.
+  * Operational excellence and Service Enhancement :
+Actively involved in monitoring servers, assisted with root cause analysis, communicated options for resolution, provided recommendation and resolved the same by taking ownership of selected services.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Research Intern
+  * BITS Pilani
+  * Research on Machine learning for Detection and Classification of potentially
+habitable Exoplanets.
+  * Supervisor: Professor P K Thiruvikraman
+
+* Summer 2015: Research Intern
+  * CSIR-CEERI
+  * Implemented a project to give Real-Time Database Management System for the sensor(s) connected to 	Raspberry Pi through Arduino. Data from sensors in the long-term test were stored and visualized using Raspberry Pi.
+  * Supervisor: Mr. J SURIYA PRAKASH
   
 Skills
 ======
