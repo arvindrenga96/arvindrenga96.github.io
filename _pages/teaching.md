@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+* CSCI 5521 Introduction to Machine Learning Fall 2020
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* CSCI 4041 Algorithms and Data Structures Spring 2021
 
-CSCI 5521
+* CSCI 5523 Introduction to Data Mining Fall 2021
+
+* CSCI 4511W - Introduction to Artificial Intelligence
 
 
