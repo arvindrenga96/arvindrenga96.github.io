@@ -11,6 +11,6 @@ author_profile: true
 
 * CSCI 5523 Introduction to Data Mining Fall 2021
 
-* CSCI 4511W - Introduction to Artificial Intelligence
+* CSCI 4511W - Introduction to Artificial Intelligence Fall 2021
 
 
