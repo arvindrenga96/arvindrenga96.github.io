@@ -42,14 +42,6 @@ habitable Exoplanets.
   * Implemented a project to give Real-Time Database Management System for the sensor(s) connected to 	Raspberry Pi through Arduino. Data from sensors in the long-term test were stored and visualized using Raspberry Pi.
   * Supervisor: Mr. J SURIYA PRAKASH
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
