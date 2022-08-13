@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/KGSSL
+excerpt: 'in this paper, we propose a novel Knowledge-guided Self-Supervised Learning (KGSSL) inverse framework to extract system characteristics from driver(input) and response(output) data.'
+venue: 'KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining · Aug 13, 2022'
+paperurl: 'https://dl.acm.org/doi/10.1145/3534678.3539448'
+citation: '@inproceedings{10.1145/3534678.3539448,
+author = {Ghosh, Rahul and Renganathan, Arvind and Tayal, Kshitij and Li, Xiang and Khandelwal, Ankush and Jia, Xiaowei and Duffy, Christopher and Nieber, John and Kumar, Vipin},
+title = {Robust Inverse Framework Using Knowledge-Guided Self-Supervised Learning: An Application to Hydrology},
+year = {2022},
+isbn = {9781450393850},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3534678.3539448},
+doi = {10.1145/3534678.3539448},
+abstract = {Machine Learning is beginning to provide state-of-the-art performance in a range of environmental applications such as streamflow prediction in a hydrologic basin. However, building accurate broad-scale models for streamflow remains challenging in practice due to the variability in the dominant hydrologic processes, which are best captured by sets of process-related basin characteristics. Existing basin characteristics suffer from noise and uncertainty, among many other things, which adversely impact model performance. To tackle the above challenges, in this paper, we propose a novel Knowledge-guided Self-Supervised Learning (KGSSL) inverse framework to extract system characteristics from driver(input) and response(output) data. This first-of-its-kind framework achieves robust performance even when characteristics are corrupted or missing. We evaluate the KGSSL framework in the context of stream flow modeling using CAMELS (Catchment Attributes and MEteorology for Large-sample Studies) which is a widely used hydrology benchmark dataset. Specifically, KGSSL outperforms baseline by 16% in predicting missing characteristics. Furthermore, in the context of forward modelling, KGSSL inferred characteristics provide a 35% improvement in performance over a standard baseline when the static characteristic are unknown.},
+booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+pages = {465–474},
+numpages = {10},
+keywords = {self-supervised learning, inverse modeling, forward modeling},
+location = {Washington DC, USA},
+series = {KDD '22}
+}'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+in this paper, we propose a novel Knowledge-guided Self-Supervised Learning (KGSSL) inverse framework to extract system characteristics from driver(input) and response(output) data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://dl.acm.org/doi/10.1145/3534678.3539448)
