@@ -19,5 +19,5 @@ Before starting my Ph.D, I obtained my Bachelor degree in Computer Science and M
 
 News
 ------
-1. 2022-08: Our paper Regionalization in a global hydrologic deep learning model: From physical descriptors to random vectors has been accepted by Water Resources Research.
-2. 2022-05: Our paper Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology has been accepted at KDD '22
+1. 2022-08: Our paper **Regionalization in a global hydrologic deep learning model: From physical descriptors to random vectors** has been accepted by Water Resources Research.
+2. 2022-05: Our paper **Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology** has been accepted at KDD '22
