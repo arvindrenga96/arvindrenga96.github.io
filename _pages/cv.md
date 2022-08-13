@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Summer 2021 to Present: Graduate Research Assistant
+  * University of Minnesota
+  * Working on developing machine learning solutions for complex scientific systems in the presence of noisy, incomplete, and unknown data.
+  * Supervisor: Professor Vipin Kumar
+
 * Spring 2019: Software Development Engineer Intern
   * Amazon, Device Master Service Team.
   * OMA To PCE Migration: Assisted with Migration from OMA to PCE, by identifying, designing and developing replacement for OMA APIs for fetching order Details. The replacements and changes for the migrations were implemented in Java on Machine learning for Detection and Classification of potentially
