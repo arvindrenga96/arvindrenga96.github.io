@@ -50,10 +50,14 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CSCI 5521 Introduction to Machine Learning Fall 2020
+
+* CSCI 4041 Algorithms and Data Structures Spring 2021
+
+* CSCI 5523 Introduction to Data Mining Fall 2021
+
+* CSCI 4511W - Introduction to Artificial Intelligence Fall 2021
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Technical Director, Google Developer Student Clubs program at the University of Minnesota, Twin Cities Aug 2021- May 2022
